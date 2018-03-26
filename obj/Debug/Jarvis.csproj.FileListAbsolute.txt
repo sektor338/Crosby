@@ -1,0 +1,10 @@
+C:\Users\hdsek\source\repos\Jarvis\Jarvis\Jarvis\bin\Debug\Jarvis.exe.config
+C:\Users\hdsek\source\repos\Jarvis\Jarvis\Jarvis\bin\Debug\Jarvis.exe
+C:\Users\hdsek\source\repos\Jarvis\Jarvis\Jarvis\bin\Debug\Jarvis.pdb
+C:\Users\hdsek\source\repos\Jarvis\Jarvis\Jarvis\obj\Debug\Jarvis.csprojResolveAssemblyReference.cache
+C:\Users\hdsek\source\repos\Jarvis\Jarvis\Jarvis\obj\Debug\Jarvis.Form1.resources
+C:\Users\hdsek\source\repos\Jarvis\Jarvis\Jarvis\obj\Debug\Jarvis.Properties.Resources.resources
+C:\Users\hdsek\source\repos\Jarvis\Jarvis\Jarvis\obj\Debug\Jarvis.csproj.GenerateResource.cache
+C:\Users\hdsek\source\repos\Jarvis\Jarvis\Jarvis\obj\Debug\Jarvis.csproj.CoreCompileInputs.cache
+C:\Users\hdsek\source\repos\Jarvis\Jarvis\Jarvis\obj\Debug\Jarvis.exe
+C:\Users\hdsek\source\repos\Jarvis\Jarvis\Jarvis\obj\Debug\Jarvis.pdb
